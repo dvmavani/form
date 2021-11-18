@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.title {
+  text-align: center;
+  margin-left: auto;
+  font-weight: bold;
+}
+.box {
+  border: 1px solid rgb(192, 186, 186);
+  border-radius: 10px;
+  padding: 20px 20px;
+}
+.rowcustom {
+  margin: 15px;
+}
+.inl {
+  font-weight: bold;
+}
+input {
+  border: 1px solid rgb(192, 186, 186);
+  border-radius: 5px;
+}
+.secbox {
+  border: 1px solid rgb(192, 186, 186);
+  padding: 10px;
+  border-radius: 10px;
+  margin-top: 5px;
+}
+.special {
+  text-decoration: underline;
+}
+.box2 {
+  border-bottom: 2px solid rgb(151, 148, 148);
+}
